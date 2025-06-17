@@ -2,8 +2,6 @@
 
 A modern Android application for managing reminders with a clean Material Design interface. Built using Kotlin and following MVVM architecture pattern.
 
-![Reminder App](screenshots/app_preview.png)
-
 ## About App
 
 Reminder App is a simple yet powerful tool to help users manage their daily tasks and reminders. It provides a clean, intuitive interface for creating, editing, and managing reminders with optional date/time scheduling.
@@ -133,9 +131,6 @@ The app follows MVVM architecture, making it easy to add new features:
 - **RecyclerView**: List display
 - **ViewBinding**: View binding
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -151,8 +146,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Android Architecture Components
 - Room Persistence Library
 - AndroidX Libraries
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/reminder-app](https://github.com/yourusername/reminder-app) 
